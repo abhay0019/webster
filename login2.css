@@ -1,0 +1,18 @@
+@font-face
+ {
+   font-family:myfont1;
+   src:url('trench100free.otf');
+ }
+ body{
+   background-color: #1D2731;
+   font-family: myfont1;
+   font-weight: bolder;
+ }
+h1
+{
+   font-family: myfont1;
+}
+.img-rounded
+{
+    box-shadow: 5px 5px 5px #000;
+}
